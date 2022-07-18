@@ -7,3 +7,16 @@ h1 {
     border: 1px solid black;
     padding: 0;
 }
+
+#cabecera {
+    font-size: 3rem;
+    background-color: #33A;
+    color: white;
+    margin: 0;
+    padding: .5rem;
+    box-shadow: 5px 5px 15px black;
+}
+
+.post {
+    font-size: 1em;
+}
